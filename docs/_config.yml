@@ -28,6 +28,9 @@ url: "https://https://starkvilleweeklyprotests.org/" # the base hostname & proto
 twitter_username: jekyllrb
 github_username:  jekyll
 
+logo: "/images/poster.jpg"
+
+
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
