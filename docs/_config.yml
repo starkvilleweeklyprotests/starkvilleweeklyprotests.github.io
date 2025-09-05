@@ -21,8 +21,7 @@
 title: Starkville Weekly Protests
 email: starkvilleweeklyprotests@gmail.com
 description: >-
-  Local group of concerned citizens of Starkville 
-  trying to raise solidarity in our community.
+  Concerned citizens of Starkville expressing solidarity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://https://starkvilleweeklyprotests.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
