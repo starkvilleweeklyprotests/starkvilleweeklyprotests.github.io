@@ -7,9 +7,9 @@ layout: default
 
 ## What?
 
-Currently, some citizens stand on the sidewalk in downtown to protest 
-and show our disapproval to either recent political events/decisions/actions
-or just the current Trump presidential administration in general.  
+Local citizens stand on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
+This is to show our disapproval of either recent political events/decisions/actions
+or just the current presidential administration in general.  
 We believe that this president and, by extension, his administration is 
 causing egregious harm to our country and to the world at large.
 Eveyone that attends voices individual concerns, but it seems we are in general
@@ -17,8 +17,8 @@ agreement.
 
 The poster shown on this page is one of the images posted to various social media
 about this event.  
-There is no central organization, to my knowledge, but I believe the poster
-expresses the general concerns of those that attend.
+There is no central organization, but the poster expresses some of
+the general concerns of those that attend.
 
 
 ## Why?
@@ -28,7 +28,7 @@ expresses the general concerns of those that attend.
 \- quote from a city official
 
 Well, that's a fun statement.
-But I think it's an opinion based on their perspective. 
+But I think it's an opinion based on one's perspective. 
 
 If you believe the goal of the protests is to 
 "make the federal government realize the error 
@@ -39,26 +39,18 @@ However, I don't think anyone that attends these expects
 anything close to that. 
 I believe the only things we are sure of are:
 1. We always get more positive responses than negative responses[^pos-v-neg],
-2. We feel community when meeting together,
-3. Doing **nothing** achieves **nothing**.
+2. We feel more community when meeting together,
+3. __Doing__ _nothing_ __achieves__ _nothing_.
 
 
-### Personally
-I felt like I was starting to go a little bit crazy 
-before I these protests started up.
+## Where can I find more info?
 
-Siloed at my house, it felt as if I was seeing bad things happening but no one else cared.  
+Hopefully this website will be updated over time.  
+Information is currently posted in various spaces on 
+social media, but you likely found this website through 
+something like that anyways.  
+If you want to message someone directly, the email associated with this website is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
 
-Seeing other people spending their a portion of their Friday protesting made me feel a little less restless
-because I was no longer alone in my head.
-
-I actually get out more because of this.  
-I talk to more people.   
-I spend slightly more money.  
-(I'm usually doing business locally anyways.)
-
-In all honesty, this one event has potentially contributed positively to the local economy. 
-So, if you needed a purely economic argument, maybe there is one to make. 
 
 #### Footnotes
-[^pos-v-neg]: This is a bit of a biased measurement, as I count a "honk" as generally positive, and any other interaction takes more effort on the part of drivers. We regularly get positive reactions at 4-7x the rate of negative reactions. Maybe that discrepancy is due to the difference in effort, but maybe not. 
+[^pos-v-neg]: This is a bit of a biased measurement, as I count a "honk" as generally positive, and any other interaction takes more effort on the part of drivers. We regularly get positive reactions at 4-7x the rate of negative reactions. Maybe that discrepancy is due to the difference in effort required, but maybe not. 
