@@ -25,9 +25,9 @@ the general concerns of those that attend.
 
 
 > ### "A waste of time and resources"
-\- quote from a city official
+\- Paraphrased statement from a city official regarding the weekly protests[^statement]
 
-Well, that's a fun statement.
+Well, that's a fun comment.  
 But I think it's an opinion based on one's perspective. 
 
 If you believe the goal of the protests is to 
@@ -53,4 +53,5 @@ If you want to message someone directly, the email associated with this website 
 
 
 #### Footnotes
+[^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
 [^pos-v-neg]: This is a bit of a biased measurement, as I count a "honk" as generally positive, and any other interaction takes more effort on the part of drivers. We regularly get positive reactions at 4-7x the rate of negative reactions. Maybe that discrepancy is due to the difference in effort required, but maybe not. 
