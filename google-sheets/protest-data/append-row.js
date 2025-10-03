@@ -9,9 +9,12 @@ function addNegative() {
   appendTimestampToColumnOnCurrentDay(2);
 }
 
+function getTodayFormatted(){
+  return Utilities.formatDate(new Date(), Session.getScriptTimeZone(), "yyyy-MM-dd");
+}
 
 function appendTimestampToColumnOnCurrentDay(column) {
-  const today = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), "yyyy-MM-dd");
+  const today = getTodayFormatted();
   // const spreadsheet = SpreadsheetApp.openById("1m1Mub3a-Tp0rPuChY3_PuPwMg8sGgZfVWUMr9mhSOF8");
   let sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(today);
   if(!sheet) {
