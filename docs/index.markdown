@@ -10,15 +10,15 @@ layout: default
 Local citizens stand on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
 This is to show our disapproval of either recent political events/decisions/actions
 or just the current presidential administration in general.  
-We believe that this president and, by extension, his administration is 
-causing egregious harm to our country and to the world at large.
-Eveyone that attends voices individual concerns, but it seems we are in general
-agreement.
+
+We believe that this president and his administration is 
+causing harm to our country and to the world at large.
+Eveyone that attends voices individual concerns but are in general
+agreement with this understanding.
 
 The poster shown on this page is one of the images posted to various social media
 about this event.  
-There is no central organization, but the poster expresses some of
-the general concerns of those that attend.
+There is no central organization, but the poster represents the general ethos of most of us.
 
 
 ## Why?
@@ -45,11 +45,14 @@ I believe the only things we are sure of are:
 
 ## Where can I find more info?
 
-Hopefully this website will be updated over time.  
+I plan to update this website over time.  
 Information is currently posted in various spaces on 
 social media, but you likely found this website through 
-something like that anyways.  
-If you want to message someone directly, the email associated with this website is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
+something like that anyways. 
+
+[Instagram (@weekly_protest_starkville)](https://www.instagram.com/weekly_protest_starkville/)
+
+If you want to message the manager of this site directly, the email is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
 
 
 #### Footnotes
