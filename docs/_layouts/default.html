@@ -23,6 +23,43 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p>Today's Stats (if Friday):</p>
+
+        <table id="sheet-data" border="1">
+          <thead>
+            <tr>
+              <th>Positive Responses</th>
+              <th>Negative Responses</th>
+              <th>Ratio (Pos/Neg)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Filled dynamically with JSON -->
+          </tbody>
+        </table>
+
+
+        <script>
+        const API_URL = "https://script.google.com/macros/s/AKfycbyiKpVGxh9Vy7LW4fAspaiI4YOxq3givEwoUVtMNmseiSiO8i1Dyt0S4IpSq1DONiMwfQ/exec";
+
+        fetch(API_URL)
+          .then(response => response.json())
+          .then(data => {
+            const tbody = document.querySelector("#sheet-data tbody");
+            const row = document.createElement("tr");
+            let pos = data["positive"];
+            let neg = data["negative"];
+            let ratio = pos/neg;
+            row.innerHTML = `<td>${pos}</td><td>${neg}</td><td>${ratio.toFixed(1)}</td>`;
+            tbody.appendChild(row);
+          })
+          .catch(err => {
+            console.error("Error fetching sheet data:", err);
+            const tbody = document.querySelector("#sheet-data tbody");
+            tbody.innerHTML = `<tr><td colspan="2">Failed to load data</td></tr>`;
+          });
+        </script>
+
       </header>
       <section>
 
