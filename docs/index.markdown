@@ -55,6 +55,33 @@ something like that anyways.
 If you want to message the manager of this site directly, the email is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
 
 
+## Historical Interaction Data
+
+| Date       | Positive | Negative | Pos/Neg Ratio |
+|-------|--------|---------| --------- |
+| 2025-05-09 | 52       | 7        | 7.4           |
+| 2025-05-23 | 65       | 14       | 4.6           |
+| 2025-05-29 | 39       | 5        | 7.8           |
+| 2025-06-06 | 42       | 6        | 7.0           |
+| 2025-06-13 | 38       | 3        | 12.7          |
+| 2025-06-20 | 25       | 4        | 6.3           |
+| 2025-07-04 | 12       | ?        | -             |
+| 2025-07-11 | 18       | 2        | 9.0           |
+| 2025-07-18 | 28       | 1        | 28.0          |
+| 2025-07-25 | 61       | 5        | 12.2          |
+| 2025-08-01 | 34       | 1        | 34.0          |
+| 2025-08-08 | 74       | 13       | 5.7           |
+| 2025-08-15 | 45       | 7        | 6.4           |
+| 2025-08-22 | 42       | 4        | 10.5          |
+| 2025-08-29 | 81       | 5        | 16.2          |
+| 2025-09-05 | 44       | 4        | 11.0          |
+| 2025-09-19 | 58       | 7        | 8.3           |
+| 2025-09-26 | 14       | 2        | 7.0           |
+| 2025-10-03 | 46       | 9        | 5.1           |
+| 2025-10-10 | 50       | 3        | 16.7          |
+| 2025-10-24 | 51       | 5        | 10.2          |
+| 2025-10-31 | 47       | 4        | 11.8          |
+
 #### Footnotes
 [^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
 [^pos-v-neg]: This is a bit of a biased measurement, as I count a "honk" as generally positive, and any other interaction takes more effort on the part of drivers. We regularly get positive reactions at 4-7x the rate of negative reactions. Maybe that discrepancy is due to the difference in effort required, but maybe not. 
