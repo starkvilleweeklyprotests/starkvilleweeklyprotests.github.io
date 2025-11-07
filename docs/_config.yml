@@ -23,7 +23,7 @@ email: starkvilleweeklyprotests@gmail.com
 description: >-
   Concerned citizens of Starkville expressing solidarity.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://https://starkvilleweeklyprotests.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://starkvilleweeklyprotests.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
