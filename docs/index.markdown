@@ -28,7 +28,7 @@ There is no central organization, but the poster represents the general ethos of
 \- Paraphrased statement from a city official regarding the weekly protests[^statement]
 
 Well, that's a fun comment.  
-But I think it's an opinion based on one's perspective. 
+But it is an opinion based on one's perspective. 
 
 If you believe the goal of the protests is to 
 "make the federal government realize the error 
@@ -37,7 +37,7 @@ protests would be a gigantic waste of time.
 
 However, I don't think anyone that attends these expects
 anything close to that. 
-I believe the only things we are sure of are:
+I believe some of the only things we are sure of are:
 1. We always get more positive responses than negative responses[^pos-v-neg],
 2. We feel more community when meeting together,
 3. __Doing__ _nothing_ __achieves__ _nothing_.
