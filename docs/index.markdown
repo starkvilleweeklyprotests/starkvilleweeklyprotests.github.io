@@ -81,6 +81,8 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2025-10-10 | 50       | 3        | 16.7          |
 | 2025-10-24 | 51       | 5        | 10.2          |
 | 2025-10-31 | 47       | 4        | 11.8          |
+| 2025-11-07 | 65       | 7        | 9.3           |
+| 2025-11-14 | 104      | 4        | 26.0          |
 
 #### Footnotes
 [^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
