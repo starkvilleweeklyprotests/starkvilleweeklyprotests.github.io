@@ -65,7 +65,7 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2025-06-06 | 42       | 6        | 7.0           |
 | 2025-06-13 | 38       | 3        | 12.7          |
 | 2025-06-20 | 25       | 4        | 6.3           |
-| 2025-07-04 | 12       | ?        | -             |
+| 2025-07-04 | 12       | ?        | n/a           |
 | 2025-07-11 | 18       | 2        | 9.0           |
 | 2025-07-18 | 28       | 1        | 28.0          |
 | 2025-07-25 | 61       | 5        | 12.2          |
@@ -83,6 +83,13 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2025-10-31 | 47       | 4        | 11.8          |
 | 2025-11-07 | 65       | 7        | 9.3           |
 | 2025-11-14 | 104      | 4        | 26.0          |
+| 2025-11-21 | 83       | 10       | 8.3           |
+| 2025-11-28 | n/a      | n/a      | n/a           |
+| 2025-12-05 | n/a      | n/a      | n/a           |
+| 2025-12-12 | 67       | 11       | 6.1           |
+| 2025-12-19 | 37       | 5        | 7.4           |
+| 2025-12-26 | n/a      | n/a      | n/a           |
+| 2026-01-02 | 9        | 0        | ∞             |
 
 #### Footnotes
 [^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
