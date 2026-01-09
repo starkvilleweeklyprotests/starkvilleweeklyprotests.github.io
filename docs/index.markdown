@@ -14,7 +14,7 @@ Please view the event from multiple video angles to come to a clearer understand
 
 As the investigation unfolds (there were several videos of the incident and aftermath, so hopefully resolutions will be swifter than normal), we will see how the various levels of current goverment in the US respond to such tragedies.
 
-## What?
+## What is this site about?
 
 Local citizens stand on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
 This is to show our disapproval of either recent political events/decisions/actions
