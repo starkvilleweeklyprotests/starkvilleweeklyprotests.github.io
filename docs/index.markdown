@@ -59,7 +59,7 @@ Information is currently posted in various spaces on
 social media, but you likely found this website through 
 something like that anyways. 
 
-[Instagram (@weekly_protest_starkville)](https://www.instagram.com/weekly_protest_starkville/)
+[Facebook (Fed Up Friday Starkville)](https://www.facebook.com/groups/848148657701471)
 
 If you want to message the manager of this site directly, the email is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
 
