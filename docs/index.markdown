@@ -5,6 +5,15 @@
 layout: default
 ---
 
+## The Most Recent Issue You May or May Not Have Seen
+[Bloomberg News: ICE Agent Shoots and Kills US Citizen in Minneapolis](https://www.bloomberg.com/news/newsletters/2026-01-07/ice-agent-shoots-dead-us-citizen-in-minneapolis-evening-briefing-americas)
+
+You can also search the internet for "minnesota ice shooting" to find more information from other sources.
+
+Please view the event from multiple video angles to come to a clearer understanding of what happened. Things happened fast at the time of the shooting, but what happened afterwards is even more damning to the honor, credibility, and trustworthiness of the ICE agents involved, and the response by the Trump administration reflects the general lack of accountability in general.
+
+As the investigation unfolds (there were several videos of the incident and aftermath, so hopefully resolutions will be swifter than normal), we will see how the various levels of current goverment in the US respond to such tragedies.
+
 ## What?
 
 Local citizens stand on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
