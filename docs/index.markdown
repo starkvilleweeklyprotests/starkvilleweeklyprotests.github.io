@@ -5,14 +5,23 @@
 layout: default
 ---
 
-## The Most Recent Issue You May or May Not Have Seen
+## "Are you okay?"
+\- some of the last words of Alex Pretti
+
+[People: Renee Good’s Family Reacts to Alex Pretti’s ‘Deeply Disturbing’ Death: ‘We Urge All Americans to Trust Their Own Eyes’](https://people.com/renee-good-family-reacts-to-alex-pretti-death-11892182)
+
 [Bloomberg News: ICE Agent Shoots and Kills US Citizen in Minneapolis](https://www.bloomberg.com/news/newsletters/2026-01-07/ice-agent-shoots-dead-us-citizen-in-minneapolis-evening-briefing-americas)
 
-You can also search the internet for "minnesota ice shooting" to find more information from other sources.
+Most of us have seen the videos by now. 
+It's national news, whether or not your news sources have talked about it.
+If you were unaware of the above, either you're too busy or you've been kept in the dark intentionally. 
 
-Please view the event from multiple video angles to come to a clearer understanding of what happened. Things happened fast at the time of the shooting, but what happened afterwards is even more damning to the honor, credibility, and trustworthiness of the ICE agents involved, and the response by the Trump administration reflects the general lack of accountability in general.
+I remain optimistic that things can get better as long as people are willing to seek the truth, as hard as it is to digest sometimes.  
+Please continue to survive, be kind to yourself and others.  
+Almost every religion and culture seems to have some form of the Golden Rule ("Do unto others as you would have them do unto you"; basically be kind to other people), but it bewilders me that so many people seem to forget that includes the people you don't like. 
 
-As the investigation unfolds (there were several videos of the incident and aftermath, so hopefully resolutions will be swifter than normal), we will see how the various levels of current goverment in the US respond to such tragedies.
+I can't claim to know what will happen, but as long as good people continue to try to do good things, the next generation will hopefully find it worth it to be good themselves. 🙂
+
 
 ## What is this site about?
 
