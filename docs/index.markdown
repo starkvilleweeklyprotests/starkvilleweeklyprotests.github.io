@@ -22,6 +22,9 @@ Almost every religion and culture seems to have some form of the Golden Rule ("D
 
 I can't claim to know what will happen, but as long as good people continue to try to do good things, the next generation will hopefully find it worth it to be good themselves. 🙂
 
+Also, I don't keep entirely up with literally everything, so this may or may not reflect the "latest" events. 
+You're a responsible adult (probably); please do your own reading on events.
+
 
 ## What is this site about?
 
