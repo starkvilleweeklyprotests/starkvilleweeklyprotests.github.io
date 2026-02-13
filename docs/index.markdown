@@ -111,6 +111,12 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2025-12-19 | 37       | 5        | 7.4           |
 | 2025-12-26 | n/a      | n/a      | n/a           |
 | 2026-01-02 | 9        | 0        | ∞             |
+| 2026-01-09 | 35       | 3        | 11.7          |
+| 2026-01-16 | 31       | 10       | 3.1           |
+| 2026-01-23 | 42       | 9        | 4.7           |
+| 2026-01-30 | 42       | 5        | 8.4           |
+| 2026-02-06 | 65       | 5        | 13.0          |
+
 
 #### Footnotes
 [^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
