@@ -5,6 +5,56 @@
 layout: default
 ---
 
+## Don't just sit there; DO SOMETHING!
+
+I know it can seem overwhelming.  
+It frankly is.  
+But... that's the *point*.   
+"They" want you to feel overwhelmed and powerless, because then you won't **do** anything about it.  
+You'll just continue your normal routine to survive... for now.
+
+You need to overcome that dread and fear.  
+I used to try my best not to be alarmist. I've been working towards privacy and security for myself and my family for years.  
+But if everyone does that and doesn't speak out publicly, no one will know you're with them and want to help...  
+You can't tell that anyone else cares, so why should you?
+
+If no one speaks out for fear of retribution, what does that say about our current situation?  
+And worse, the future situation?  
+
+**Why am I now pretty alarmist?**  
+The current presidential administration has taken apart the pieces of its own branch that were responsible for contemplating the Iranian responses to our actions **just before** launching an offensive on Iran.  
+It is inevitable that someone, either alone or as an organization, will counterattack, potentially on our own soil. (It's possible that's already happened, but I'm not keeping up with that news.)
+If and when that happens, there is the possibility that the federal Executive Branch (i.e. Trump and his buddies) will try to declare martial law and, among other things, postpone elections this year.  
+
+Even during peak World War II, our elections were held. I believe that the precedent says this is a blatant attempt to retain power, as the Republicans in Congress seem to literally just go with whatever Trump says, no matter what they say their "morals" are. 
+
+We cannot let this happen. The Executive branch has no power over elections. The **Federal Government** has no power over elections. ([GovFacts page about this](https://govfacts.org/elections-voting/voting-rights-reform/the-elections-clause-why-the-constitution-gives-states-power-over-voting/); I'm not an expert, but this seems to track with what I learned in **freaking middle school**!)
+
+I do not claim to be a Democrat, Republican, Liberatarian, "enlightened centrist", or member of any particular party. I believe a certain balance and discussion between our opinions is important to the success of our country.  
+We make hard choices.  
+We compromise.  
+We work together. 
+
+But the current administration has forsaken the actual goals of the founding fathers to make a balance of power and seems to create a new kind of kingdom. A democracy in name only. 
+
+Assuming my fears are correct, I despise this set of actions, and I believe you should, too. 
+
+I don't know what you or I should do. I do know that doing __nothing__ achieves __nothing__. 
+So, I'm trying to do __something__. 
+
+The next No Kings Day protest is on March 28th. In Starkville, it will be at the Courthouse downtown from 10am to 12pm.   
+There are planned to be computers so you can check your voter registation status.  
+
+Please do something.  
+Even if just showing up somewhere to express discontent.  
+Even if just honking at us as you drive by.  
+Even if just starting to look into how things are going. 
+
+I know you're tired.  
+We're all tired.  
+Don't stop trying to **do something**.
+
+
 ## "Are you okay?"
 \- some of the last words of Alex Pretti
 
