@@ -117,6 +117,8 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2026-01-30 | 42       | 5        | 8.4           |
 | 2026-02-06 | 65       | 5        | 13.0          |
 | 2026-02-13 | 82       | 2        | 41.0          |
+| 2026-02-20 | 50       | 8        | 6.3           |
+| 2026-02-27 | 70       | 6        | 11.7          |
 
 
 #### Footnotes
