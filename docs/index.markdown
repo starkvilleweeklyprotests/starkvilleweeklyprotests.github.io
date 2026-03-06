@@ -169,6 +169,7 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2026-02-13 | 82       | 2        | 41.0          |
 | 2026-02-20 | 50       | 8        | 6.3           |
 | 2026-02-27 | 70       | 6        | 11.7          |
+| 2026-03-06 | 59       | 4        | 14.8          |
 
 
 #### Footnotes
