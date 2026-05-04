@@ -176,6 +176,8 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2026-04-03 | 89       | 5        | 17.8          |
 | 2026-04-10 | 97       | 8        | 12.1          |
 | 2026-04-17 | 108      | 8        | 13.5          |
+| 2026-04-24 | 82       | 7        | 11.7          |
+| 2026-05-01 | 136      | 7        | 19.4          |
 
 ### Scatter plot
 ![](images/2026-04-17_data.png)
