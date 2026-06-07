@@ -178,13 +178,20 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2026-04-17 | 108      | 8        | 13.5          |
 | 2026-04-24 | 82       | 7        | 11.7          |
 | 2026-05-01 | 136      | 7        | 19.4          |
+| 2026-05-08 | 101      | 7        | 14.4          |
+| 2026-05-15 | 145      | 7        | 20.7          |
+| 2026-05-22 | 124      | 9        | 13.8          |
+| 2026-05-29 | 138      | 8        | 17.3          |
+| 2026-06-05 | 126      | 13       | 9.7           |
+
+
 
 ### Scatter plot
-![](images/2026-04-17_data.png)
+![](images/2026-06-05_data.png)
 
 
 ### Smoothed line plot (averaged over three data points)
-![](images/2026-04-17_data_smoothed.png)
+![](images/2026-06-05_data_smoothed.png)
 
 
 
