@@ -21,7 +21,8 @@
 title: Starkville Weekly Protests
 email: starkvilleweeklyprotests@gmail.com
 description: >-
-  Concerned citizens of Starkville expressing solidarity.
+  Concerned citizens of Starkville expressing solidarity.  
+  We meet <b>every Friday from 12pm to 1pm</b> at the <b>corner of Main St. and Jackson St.</b>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://starkvilleweeklyprotests.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
