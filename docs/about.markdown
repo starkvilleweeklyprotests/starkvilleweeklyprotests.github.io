@@ -1,18 +1,22 @@
 ---
-layout: page
-title: About
+layout: default
+title: What is this site about?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## What is this site about?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Local citizens standing on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
+This is to show our disapproval of either recent political events/decisions/actions
+or just the current presidential administration in general.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We believe that this president and his administration is 
+causing harm to our country and to the world at large.
+Eveyone that attends voices individual concerns but are in general
+agreement with this understanding.
 
+The poster shown on this page is one of the images posted to various social media
+about this event.  
+There is no central organization, but the poster represents the general ethos of most of us.
 
-[jekyll-organization]: https://github.com/jekyll
+## [Home](/)

@@ -5,95 +5,18 @@
 layout: default
 ---
 
-## Don't just sit there; DO SOMETHING!
+In the middle of 2025, a few Starkville citizens got together and 
+started protesting weekly on Fridays at noon. 
+Almost every week since, there have been at least a few gathered to 
+continue the expression of discontent. 
+Whether or not you agree with the method, those participating
+feel a bigger sense of community as a result. 
 
-I know it can seem overwhelming.  
-It frankly is.  
-But... that's the *point*.   
-"They" want you to feel overwhelmed and powerless, because then you won't **do** anything about it.  
-You'll just continue your normal routine to survive... for now.
-
-You need to overcome that dread and fear.  
-I used to try my best not to be alarmist. I've been working towards privacy and security for myself and my family for years.  
-But if everyone does that and doesn't speak out publicly, no one will know you're with them and want to help...  
-You can't tell that anyone else cares, so why should you?
-
-If no one speaks out for fear of retribution, what does that say about our current situation?  
-And worse, the future situation?  
-
-I don't know what you or I should do. I do know that doing __nothing__ achieves __nothing__. 
-So, I'm trying to do __something__. 
-
-Please do something.  
-Even if just showing up somewhere to express discontent.  
-Even if just honking at us as you drive by.  
-Even if just starting to look into how things are going. 
-
-I know you're tired.  
-We're all tired.  
-Don't stop trying to **do something**.
-
-
-## "Are you okay?"
-\- some of the last words of Alex Pretti
-
-[People: Renee Good’s Family Reacts to Alex Pretti’s ‘Deeply Disturbing’ Death: ‘We Urge All Americans to Trust Their Own Eyes’](https://people.com/renee-good-family-reacts-to-alex-pretti-death-11892182)
-
-[Bloomberg News: ICE Agent Shoots and Kills US Citizen in Minneapolis](https://www.bloomberg.com/news/newsletters/2026-01-07/ice-agent-shoots-dead-us-citizen-in-minneapolis-evening-briefing-americas)
-
-Most of us have seen the videos by now. 
-It's national news, whether or not your news sources have talked about it.
-If you were unaware of the above, either you're too busy or you've been kept in the dark intentionally. 
-
-I remain optimistic that things can get better as long as people are willing to seek the truth, as hard as it is to digest sometimes.  
-Please continue to survive, be kind to yourself and others.  
-Almost every religion and culture seems to have some form of the Golden Rule ("Do unto others as you would have them do unto you"; basically be kind to other people), but it bewilders me that so many people seem to forget that includes the people you don't like. 
-
-I can't claim to know what will happen, but as long as good people continue to try to do good things, the next generation will hopefully find it worth it to be good themselves. 🙂
-
-Also, I don't keep entirely up with literally everything, so this may or may not reflect the "latest" events. 
-You're a responsible adult (probably); please do your own reading on events.
-
-
-## What is this site about?
-
-Local citizens stand on the sidewalk in downtown to protest weekly (12-1pm on Fridays).
-This is to show our disapproval of either recent political events/decisions/actions
-or just the current presidential administration in general.  
-
-We believe that this president and his administration is 
-causing harm to our country and to the world at large.
-Eveyone that attends voices individual concerns but are in general
-agreement with this understanding.
-
-The poster shown on this page is one of the images posted to various social media
-about this event.  
-There is no central organization, but the poster represents the general ethos of most of us.
-
-
-## Why?
-
-
-> ### "A waste of time and resources"
-\- Paraphrased statement from a city official regarding the weekly protests[^statement]
-
-Well, that's a fun comment.  
-But it is an opinion based on one's perspective. 
-
-If you believe the goal of the protests is to 
-"make the federal government realize the error 
-of their ways and repent!", then yeah, these
-protests would be a gigantic waste of time. 
-
-However, I don't think anyone that attends these expects
-anything close to that. 
-I believe some of the only things we are sure of are:
-1. We always get more positive responses than negative responses[^pos-v-neg],
-2. We feel more community when meeting together,
-3. __Doing__ _nothing_ __achieves__ _nothing_.
-
-
-## Where can I find more info?
+I joined for my own personal reasons and kept coming every week. 
+My analytical background led me to start tracking the "positive" 
+and "negative" responses we were getting, which eventually led to 
+the data you can see below and this website. 
+For some nuance on the data, please see footnote 2 on [this page](why).
 
 I plan to update this website over time.  
 Information is currently posted in various spaces on 
@@ -103,6 +26,12 @@ something like that anyways.
 [Facebook (Fed Up Friday Starkville)](https://www.facebook.com/groups/848148657701471)
 
 If you want to message the manager of this site directly, the email is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
+
+## Short "articles" for more info
+- [Don't just sit there; DO SOMETHING!](/do_something)
+- ["Are you okay?"](/are_you_okay)
+- [What is this site about?](/about)
+- [Why?](/why)
 
 
 ## Historical Interaction Data
@@ -180,6 +109,3 @@ If you want to message the manager of this site directly, the email is [starkvil
 
 
 
-#### Footnotes
-[^statement]: Just for disclosure, I was not personally present when this comment was made. I had to paraphrase from a retelling and don't have any of the full context or nuance.
-[^pos-v-neg]: This is a bit of a biased measurement, as I count a "honk" as generally positive, and any other interaction takes more effort on the part of drivers. We regularly get positive reactions at 4-7x the rate of negative reactions. Maybe that discrepancy is due to the difference in effort required, but maybe not. 
