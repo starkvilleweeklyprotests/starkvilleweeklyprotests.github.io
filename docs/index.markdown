@@ -5,6 +5,8 @@
 layout: default
 ---
 
+# Overview
+
 In the middle of 2025, a few Starkville citizens got together and 
 started protesting weekly on Fridays at noon. 
 Almost every week since, there have been at least a few gathered to 
@@ -34,7 +36,7 @@ If you want to message the manager of this site directly, the email is [starkvil
 - [Why?](/why)
 
 
-## Historical Interaction Data
+# Historical Interaction Data
 
 | Date       | Positive | Negative | Pos/Neg Ratio |
 |-------|--------|---------| --------- |
@@ -100,11 +102,11 @@ If you want to message the manager of this site directly, the email is [starkvil
 
 
 
-### Scatter plot
+## Scatter plot
 ![](images/2026-07-17_data.png)
 
 
-### Smoothed line plot (averaged over three data points)
+## Smoothed line plot (averaged over three data points)
 ![](images/2026-07-17_data_smoothed.png)
 
 
