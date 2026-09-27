@@ -99,15 +99,25 @@ If you want to message the manager of this site directly, the email is [starkvil
 | 2026-07-03 | 138      | 8        | 17.3          |
 | 2026-07-10 | 180      | 7        | 25.7          |
 | 2026-07-17 | 161      | 8        | 20.1          |
+| 2026-07-24 | 152      | 9        | 16.9          |
+| 2026-07-31 | 146      | 7        | 20.9          |
+| 2026-08-07 | 24       | 1        | 24.0          |
+| 2026-08-14 | 44       | 0        | n/a           |
+| 2026-08-21 | 61       | 3        | 20.3          |
+| 2026-08-28 | 93       | 3        | 31.0          |
+| 2026-09-04 | 90       | 1        | 90.0          |
+| 2026-09-11 | 71       | 0        | n/a           |
+| 2026-09-18 | 62       | 0        | n/a           |
+| 2026-09-25 | 85       | 1        | 85.0          |
 
 
 
 ## Scatter plot
-![](images/2026-07-17_data.png)
+![](images/2026-09-25_data.png)
 
 
 ## Smoothed line plot (averaged over three data points)
-![](images/2026-07-17_data_smoothed.png)
+![](images/2026-09-25_data_smoothed.png)
 
 
 
