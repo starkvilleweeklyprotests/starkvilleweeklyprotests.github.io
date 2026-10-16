@@ -4,8 +4,26 @@ title: Voting
 permalink: /voting/
 ---
 
+## Voting Day November 3rd!
 
-## Checking Voter Status (MS)
+Do you know where your polling place is?  
+Do you know which offices will be on your ballot?  
+Please check this site for info:  
+[Mississippi Secretary of State's Office - My Election Day](https://myelectionday.sos.state.ms.us/VoterOutreach/Pages/VOSearch.aspx)
+
+
+In our area, there are two federal offices on the ballot this year:
+- U.S. Senate Mississippi
+- U.S. House Mississippi District 3
+
+To do some preliminary research on the candidates (at least for the federal offices), please see this site:  
+[Ballotpedia - Sample Ballot Lookup](https://ballotpedia.org/Sample_Ballot_Lookup)
+
+
+## Registration 
+While it is too late for 2026, it's never too early to get registered for next year's elections!
+
+### Checking Voter Status (MS)
 1. Go to sos.ms.gov/yall-vote 
 2. Scroll down and click on "Voter Registration Verification"  
         (or scan QR code below)
@@ -19,7 +37,7 @@ permalink: /voting/
 <img src="/images/qr-code_check-voter-registration-ms.svg" alt="QR code to website for checking voter registration status in Mississippi." style="width:50%;"  />
 
 
-## Registering to Vote
+### Registering to Vote
 - Note: Do this process on a desktop or laptop if you don’t know how to print from your phone.
 
 1. Go to sos.ms.gov/yall-vote 
