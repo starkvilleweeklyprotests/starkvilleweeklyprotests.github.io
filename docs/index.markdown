@@ -5,6 +5,10 @@
 layout: default
 ---
 
+# Important!
+Elections are coming up Nov. 3rd!  
+Please see the [voting page](voting) for more details!
+
 # Overview
 
 In the middle of 2025, a few Starkville citizens got together and 
@@ -30,6 +34,7 @@ something like that anyways.
 If you want to message the manager of this site directly, the email is [starkvilleweeklyprotests@gmail.com](mailto:starkvilleweeklyprotests@gmail.com).
 
 ## Short "articles" for more info
+- [Voting](/voting)
 - [Don't just sit there; DO SOMETHING!](/do_something)
 - ["Are you okay?"](/are_you_okay)
 - [What is this site about?](/about)
