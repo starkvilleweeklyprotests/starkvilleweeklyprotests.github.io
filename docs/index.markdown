@@ -5,11 +5,21 @@
 layout: default
 ---
 
-# Important!
-Elections are coming up Nov. 3rd!  
-Please see the [voting page](voting) for more details!
+# Blue Wave of 2026
+The 2026 midterms in the U.S. seemed to be a resounding rebuke of the party of the current President.  
+Whether that momentum continues is up to members of the two big parties, the President himself, and the 
+millions of voters that now feel that their vote actually *does* matter. 
 
-# Overview
+Please remember to stay somewhat informed, but don't be consumed.  
+One of the many reasons for this nation-wide sentiment is due to efforts like this protest that 
+have reminded our fellow citizens that things are not right and can be better.  
+I cannot and will not say that "things will now magically be better because my preferred team has more players on the field" 
+(I think the two teams are playing different games, honestly), but I am hopeful that we can hold most of these people accountable
+more than any corporate-sponsored career politicians.  
+Maybe this crop will simply switch their tune, but I am **cautiously optimistic** and will be working towards better 
+situations for my fellow Mississippians, Americans, and citizens of Earth.
+
+# Overview/History
 
 In the middle of 2025, a few Starkville citizens got together and 
 started protesting weekly on Fridays at noon. 
