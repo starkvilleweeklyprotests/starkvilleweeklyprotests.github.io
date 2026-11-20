@@ -135,11 +135,11 @@ If you want to message the manager of this site directly, the email is [starkvil
 
 
 ## Scatter plot
-![](images/2026-09-25_data.png)
+![](images/2026-11-13_data.png)
 
 
 ## Smoothed line plot (averaged over three data points)
-![](images/2026-09-25_data_smoothed.png)
+![](images/2026-11-13_data_smoothed.png)
 
 
 
